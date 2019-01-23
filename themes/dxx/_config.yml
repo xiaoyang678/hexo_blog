@@ -7,12 +7,12 @@ About: /about
 
 language: en
 
-author: fuzhouxx Dong
-description: good good study day day up
+author: xiaoyang (theme author fuzhouxx Dong)
+description: 咸鱼一条
 
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: xiaoyang
 
 google_site_verification:
 google_analytics:

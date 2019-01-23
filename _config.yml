@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Yang
+title: XiaoYang
 subtitle: 
 description: 简单记录些工作的东西
 author: xiao yang
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: miho
+theme: dxx
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
