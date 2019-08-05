@@ -1,7 +1,8 @@
 ---
 title: 纪念哪些it大神们
 date: 2019-03-11 12:50:51
-tags:	
+tags: [纪念]
+categories: "随笔"
 ---
 
 最近突然看到几篇关于一些年轻的it大神，英年早逝的文章。
@@ -9,7 +10,7 @@ tags:
 就整理下关于他们的百度百科链接，以此纪念下他们对it科学做出的贡献。
 
 【排名先后无特殊意义】
-
+<!-- more -->
 # 雷霄骅
 
 <a href="https://baike.baidu.com/link?url=7oVUetWkmAiY8OKlGcMHakwkXUwpr_MabNG8pDHgfyVoOQl_f4lLcOXaeetaXOuzEk1Hh8s3RsWiQdRr5Ve5jJxJ78EEnKJjY0ZvffPEukzl1VUP-HwWGHRxwonv0hvB">雷霄骅</a>，中国传媒大学通信与信息系统专业博士生，2016年10月就将迎来自己26岁的生日，2016年7月17日凌晨他猝死在学校主楼五层。
@@ -36,3 +37,4 @@ tags:
 
 [欧建新](https://baike.baidu.com/link?url=iWyAhvEuGnBFmEf1aRjnABjY9dyxeTN1eWdjgV3LYByMpiziH4gv8GiuEqcvF63aX5dGTLOf6WMcvwSjJeUJwOl_VKUykegtb9CqjcoYylD-DJfwNt2xivKiiQwEU6JR)，男，出生于湖南省邵阳市武冈县，毕业于北京航空航天大学，硕士研究生，原中兴通讯子公司中兴网信员工。2017年12月10日上午，在中兴通讯大楼坠亡
 
+<!-- more -->

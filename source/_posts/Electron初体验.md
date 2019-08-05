@@ -1,7 +1,8 @@
 ---
 title: Electron初体验
 date: 2019-01-28 09:32:02
-tags: 
+tags: [Electron, 体验]
+categories: "体验"
 ---
 
 ### 前言
@@ -9,12 +10,12 @@ tags:
 Electron出来已经很久了，vscode也是基于Electron实现了，之前老早就想说写个Electrondemo玩下。终于年前空闲有空看看了。
 
 ![](D:\03 coding\gayhub\hexo_blog\source\_posts\Electron初体验\img1.png)
-
+<!-- more -->
 ### 安装
 
 安装很简单就是跟着官方文档 npm i electron 就好了，不过过程中有个报错
 
-```
+```shell
 Downloading tmp-3324-0-electron-v4.0.2-win32-x64.zip
 Error: read ECONNRESET
 ```
@@ -24,8 +25,3 @@ Error: read ECONNRESET
 ### 文档
 
 <a href="https://electronjs.org/docs">官方文档</a> 
-
-
-
-
-

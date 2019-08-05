@@ -1,7 +1,8 @@
 ---
 title: windows下使用的软件
 date: 2019-03-06 09:15:35
-tags: 
+tags: [windows, 软件]
+categories: "记录"
 ---
 
 备份记录下自己window电脑下使用的软件，防丢失
@@ -13,7 +14,7 @@ Android Studio，JetBrains PyCharm，JetBrains WebStorm，Notepad++，Sublime Te
 ## MD 编辑器
 
 Typora
-
+<!-- more -->
 ## 前端工具
 
 Mark Man，Photoshop CC 2019，Koala

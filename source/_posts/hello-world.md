@@ -1,6 +1,8 @@
 ---
 title: Hexo基本命令记录
 date: 2019-01-23
+tags: [Hexo, 命令, 记录]
+categories: "记录"
 ---
 ## How to start
 
@@ -9,7 +11,7 @@ date: 2019-01-23
 ``` bash
 $ hexo new "My New Post"
 ```
-
+<!-- more -->
 ### 启动服务
 
 ``` bash
@@ -24,7 +26,6 @@ $ hexo generate || hexo g
 
 ### 构建文章
 
-``` bash
+```bash
 $ hexo deploy || hexo d
 ```
-
