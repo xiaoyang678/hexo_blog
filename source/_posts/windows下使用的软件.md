@@ -7,6 +7,7 @@ categories: "记录"
 
 备份记录下自己window电脑下使用的软件，防丢失
 
+<!-- more -->
 ## 开发IDE
 
 Android Studio，JetBrains PyCharm，JetBrains WebStorm，Notepad++，Sublime Text 3，Visual Studio Code
@@ -14,7 +15,6 @@ Android Studio，JetBrains PyCharm，JetBrains WebStorm，Notepad++，Sublime Te
 ## MD 编辑器
 
 Typora
-<!-- more -->
 ## 前端工具
 
 Mark Man，Photoshop CC 2019，Koala

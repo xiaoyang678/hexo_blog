@@ -5,6 +5,8 @@ tags: [gist, 记录, VSCode, Sync]
 categories: "记录"
 ---
 
-记录下自己vscode 配置同步插件sync用到的gist 
+记录下自己vscode 配置同步插件sync用到的gist
 
 506a1e012e98f1484be0f2bacb703e6860090cf9
+
+0d0d12ce5c0da041cc2a1e337e04e3d7
